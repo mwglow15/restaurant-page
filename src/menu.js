@@ -1,5 +1,5 @@
-export default function menu() {
-  menu = buildMenu()
+export default function menuPage() {
+  const menu = buildMenu()
 
   const body = document.querySelector('body')
 
